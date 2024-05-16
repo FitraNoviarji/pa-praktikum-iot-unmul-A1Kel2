@@ -14,6 +14,7 @@
  -   2109106120 Hendy Saputra = Kodingan
  -   2109106017 Fitra Noviarji = Rangkaian
  -   2109106116 Rahmad Ramadhan = wokwi
+   
 **D. Komponen yang digunakan**
  - Esp x 2
  - Jumper male-male x 5
