@@ -24,8 +24,9 @@
  - servo x 1
    
 **E. Board Schematich**
-*Publisher Node*
+-
+**Publisher Node**
 <img width="356" alt="publisher" src="https://github.com/FitraNoviarji/pa-praktikum-iot-unmul-A1Kel2/assets/113648587/49c0a158-5341-4a66-afc8-e38e395e833e">
 
-*Subscriber Node*
+**Subscriber Node**
 <img width="395" alt="Subscriber" src="https://github.com/FitraNoviarji/pa-praktikum-iot-unmul-A1Kel2/assets/113648587/4760519f-6b91-4ace-adba-c881bcee0cb6">
